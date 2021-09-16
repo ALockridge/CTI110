@@ -3,5 +3,5 @@
 #aaingel l, 9/16/21
 userNum = int(input())
 userNumSquared = userNum * userNum
-#fixed but above
+#fixed bug above
 print(str(userNumSquared)) # fixed also
